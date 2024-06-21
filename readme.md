@@ -143,7 +143,7 @@ WD-Hands-on-2
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Yamaha R1 Official Website | Provides detailed information about the Yamaha R1 models, specifications, features, and latest updates. | yamahamotorsports.com/supersport/models/yzf-r1 |
-| Yamaha R1 Owner's Manual | Offers comprehensive guidance on operating, maintaining, and servicing the Yamaha R1 motorcycle. | yamahamotorsports.com/assets/documents/product/f4f690c5-0d0d-4c56-9282-4f61570d5f1e.pdf |
-| R1 Forum | Online community forum for Yamaha R1 enthusiasts to discuss technical issues, modifications, riding tips, and events. | r1-forum.com |
-| Yamaha Authorized Dealers | Locator tool to find nearby Yamaha dealerships offering sales, service, and support for the R1 motorcycle. | yamahamotorsports.com/dealer-locator |
+| Dota 2 | Provide a comprehensive overview of Dota 2, including its development, gameplay mechanics, professional scene, and community impact. | en.wikipedia.org/wiki/Dota_2 |
+| Dota 2 Official Website | Offer official information about the game, updates, news, and links to download and play Dota 2. | dota2.com/home |
+| Dota 2 Guide and Database  | Provide players with detailed statistics, guides, and analytics to improve their gameplay. | dotabuff.com |
+| Dota 2 YouTube Channel | Provide official videos, including gameplay trailers, tutorials, and esports event coverage. | youtube.com/user/dota2 |
