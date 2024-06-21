@@ -543,19 +543,19 @@ body {
         background-color: #333;
 
     &.a-picture1{
-        background-image: url('/pages/hero-gallery/hero-4/assets/img/pudge-arcana.webp');
+        background-image: url('../img/pudge-arcana.webp');
         background-size: cover;
     }
     &.a-picture2{
-        background-image: url('/pages/hero-gallery/hero-4/assets/img/pudge-bogatyr.webp');
+        background-image: url('../img/pudge-bogatyr.webp');
         background-size: cover;
     }
     &.a-picture3{
-        background-image: url('/pages/hero-gallery/hero-4/assets/img/pudge-dapper.webp');
+        background-image: url('../img/pudge-dapper.webp');
         background-size: cover;
     }
     &.a-picture4{
-        background-image: url('/pages/hero-gallery/hero-4/assets/img/pudge-pig.webp');
+        background-image: url('../img/pudge-pig.webp');
         background-size: cover;
     }
     

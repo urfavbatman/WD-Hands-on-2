@@ -176,8 +176,8 @@ body {
 .profiles-container {
     display: flex;
     flex-direction: column;
-    margin-top: 20rem;
-    margin-left: 25rem;
+    margin-top: 15rem;
+    margin-left: 15rem;
     gap: 1rem;
 }
 
@@ -227,3 +227,4 @@ body {
 
     }
 }
+
