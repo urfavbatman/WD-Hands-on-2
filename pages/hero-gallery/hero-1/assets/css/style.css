@@ -1,0 +1,309 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    background: black;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.hero1-background{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+        img {
+        width: 100%;
+        height: 99.6%;
+        object-fit: cover;
+    }
+}
+
+.header {
+    display: flex;
+    justify-content:flex-end;
+    color: white;
+    padding: .7rem 1rem;
+    gap: 1rem;
+
+    .button {
+            text-decoration: none;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.301);
+            backdrop-filter: blur(10px);
+            font-size: 1.2rem;
+            border: 1px solid rgba(245, 245, 245, 0.212);
+            padding: .2rem .5rem;
+            border-radius: 3px;
+            font-weight: 600;
+            color:#4b82ca;
+            transition: all .2s ease;
+    }
+
+        :hover {
+        background-color: #c01f6f00;
+        color: rgb(255, 255, 255);
+        transform: scale(1.1);
+}
+    .blend-button2 {
+    text-decoration: none;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    font-size: 1.2rem;  
+    border: 1px solid rgba(245, 245, 245, 0.2);
+    padding: .2rem .5rem;
+    border-radius: 3px;
+    font-weight: 600;
+    color: #c01f1f00;
+    transition: all .2s ease;
+    position: relative;
+    overflow: hidden;
+
+
+    &.blend-button2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/shadowfiend-hero.jpg');
+    background-size: cover;
+    mix-blend-mode: overlay;
+    opacity: 0.5;
+    z-index: -1;
+    transition: opacity 0.3s ease;
+    }
+    }
+    .blend-button3 {
+        text-decoration: none;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(10px);
+        font-size: 1.2rem;  
+        border: 1px solid rgba(245, 245, 245, 0.2);
+        padding: .2rem .5rem;
+        border-radius: 3px;
+        font-weight: 600;
+        color: #c01f1f00;
+        transition: all .2s ease;
+        position: relative;
+        overflow: hidden;
+
+
+    &.blend-button3::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('../img/pa-background.jpg');
+        background-size: cover;
+        mix-blend-mode: overlay;
+        opacity: 0.5;
+        z-index: -1;
+        transition: opacity 0.3s ease;
+    }
+    }
+    .blend-button4 {
+        text-decoration: none;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(10px);
+        font-size: 1.2rem;  
+        border: 1px solid rgba(245, 245, 245, 0.2);
+        padding: .2rem .5rem;
+        border-radius: 3px;
+        font-weight: 600;
+        color: #c01f1f00;
+        transition: all .2s ease;
+        position: relative;
+        overflow: hidden;
+
+
+    &.blend-button4::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('../img/pudge-background.jpg');
+        background-size: cover;
+        mix-blend-mode: overlay;
+        opacity: 0.5;
+        z-index: -1;
+        transition: opacity 0.3s ease;
+    }
+    }
+    .blend-button5 {
+        text-decoration: none;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(10px);
+        font-size: 1.2rem;  
+        border: 1px solid rgba(245, 245, 245, 0.2);
+        padding: .2rem .5rem;
+        border-radius: 3px;
+        font-weight: 600;
+        color: #c01f1f00;
+        transition: all .2s ease;
+        position: relative;
+        overflow: hidden;
+
+
+    &.blend-button5::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('../img/invo-background.jpg');
+        background-size: cover;
+        mix-blend-mode: overlay;
+        opacity: 0.5;
+        z-index: -1;
+        transition: opacity 0.3s ease;
+    }
+    }
+}
+
+.profiles-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 5rem
+}
+/* Static Hero */
+.profile{
+        padding: 2rem;
+        width: 700px;
+        height: 700px;
+        background: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.301);
+        backdrop-filter: blur(2.5px);
+        border: 1px solid rgba(245, 245, 245, 0.212);
+        border-radius: 15px;
+        margin-top: 50px;
+        margin-left: 15px;
+
+       img {
+            position: absolute;
+            height: auto;
+            width: 30%;
+            right: 2rem;
+            z-index: -1;
+        }
+
+        h1{
+            margin-bottom: 15px;
+        }
+
+        p{
+            width: 60%;
+            height: auto;
+        }
+
+        
+
+.abilities{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.skills{ 
+    .skill-image{
+        img{
+            padding: 10px 10px;
+            width: 95px;
+            height: auto;
+        }
+    }
+    .skill-content{
+        .skill-name{
+            font-weight: 600;
+            margin-top: 10px;
+        }
+        .description{
+            margin-top: 5px;
+            width: 20rem;
+        }
+    }
+}
+}
+/* Animated Hero */
+.animated-profile{
+    position: relative;
+    padding: 2rem;
+    width: 700px;
+    height: 700px;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.301);
+    backdrop-filter: blur(2.5px);
+    border: 1px solid rgba(245, 245, 245, 0.212);
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 15px;
+
+   img {
+        position: absolute;
+        height: auto;
+        width: 30%;
+        right: 2rem;
+        z-index: -1;
+    }
+
+    h1{
+        margin-bottom: 15px;
+    }
+
+    p{
+        width: 60%;
+        height: auto;
+    }
+
+
+.a-abilities{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 600;   
+}
+
+.a-skills{ 
+    .a-skill-image{
+        img{
+            padding: 10px 10px;
+            width: 95px;
+            height: auto;
+        }
+    }
+    
+    .a-skill-content{
+        .a-skill-name{ 
+            font-weight: 600;
+            margin-top: 10px;
+            opacity: 0;
+        }
+        .a-description{
+            margin-top: 5px;
+            width: 20rem;
+            opacity: 0;
+        }
+
+        &:hover {
+            .a-description, .a-skill-name{
+                transform: translateX(-2%);
+                opacity: 1;
+                transition: all 0.8s ease;
+            }
+            
+        }
+        
+    }
+}
+}
