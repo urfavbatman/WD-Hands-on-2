@@ -87,16 +87,14 @@ WD-Hands-on-2
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|       └─ Dota-2-Logo.png
-|       └─ juggernautbackground.jpg     
+|       └─fileWith.jpeg/.jpg/.webp/.png    
 └─ pages
 |    └─card-gallery
 |    |     └─ assets
 |    |     |  └─ css
 |    |     |  |   └─ style.css
 |    |     |  └─ img
-|    |     |      └─ dota2-wallpaper.jpg
-|    |     |      └─ jgnaut-background.jpg
+|    |     |      └─fileWith.jpeg/.jpg/.webp/.png
 |    |     └─ index.html
 |    └─hero-gallery
 |          └─ hero-1
@@ -104,65 +102,28 @@ WD-Hands-on-2
 |          |   |    └─ css
 |          |   |    |   └─ style.css
 |          |   |    └─ img
-|          |   |        └─ invo-background.jpg
-|          |   |        └─ pa-background.jpg
-|          |   |        └─ pudge-background.jpg
-|          |   |        └─ shadowfiend-hero.jpg
-|          |   |        └─ ursa_earthshock.png
-|          |   |        └─ ursa_enrage.png
-|          |   |        └─ ursa_fury_swipes.png
-|          |   |        └─ ursa_overpower.png
-|          |   |        └─ ursa-hero.jpg
-|          |   |        └─ ursa-profile.png
+|          |   |        └─fileWith.jpeg/.jpg/.webp/.png
 |          |   └─ index.html
 |          └─ hero-2
 |          |   └─ assets
 |          |   |    └─ css
 |          |   |    |   └─ style.css
 |          |   |    └─ img
-|          |   |        └─ hero_agility.png
-|          |   |        └─ hero_intelligence.png
-|          |   |        └─ hero_strength.png
-|          |   |        └─ invo-background.jpg
-|          |   |        └─ pa-background.jpg
-|          |   |        └─ pudge-background.jpg
-|          |   |        └─ sf_dark_lord.png
-|          |   |        └─ sf_frenzy.png
-|          |   |        └─ sf_requiem.png
-|          |   |        └─ sf_shadowrage.png
-|          |   |        └─ shadowfiend-hero.jpg
-|          |   |        └─ shadowfiend-profile.webp
-|          |   |        └─ ursa-hero.jpg
+|          |   |        └─fileWith.jpeg/.jpg/.webp/.png
 |          |   └─ index.html
 |          └─ hero-3
 |          |   └─ assets
 |          |   |    └─ css
 |          |   |    |   └─ style.css
 |          |   |    └─ img
-|          |   |        └─ invo-background.jpg
-|          |   |        └─ pa-arcana.webp
-|          |   |        └─ pa-background.jpg
-|          |   |        └─ pa-profile.png
-|          |   |        └─ pa-second-skin.webp
-|          |   |        └─ pudge-background.jpg
-|          |   |        └─ shadowfiend-hero.jpg
-|          |   |        └─ ursa-hero.jpg
+|          |   |        └─fileWith.jpeg/.jpg/.webp/.png
 |          |   └─ index.html
 |          └─ hero-4
 |          |   └─ assets
 |          |   |    └─ css
 |          |   |    |   └─ style.css
 |          |   |    └─ img
-|          |   |    |   └─ invo-background.jpg
-|          |   |    |   └─ pa-background.jpg
-|          |   |    |   └─ pudge-arcana.webp
-|          |   |    |   └─ pudge-background.jpg
-|          |   |    |   └─ pudge-bogatyr.webp
-|          |   |    |   └─ pudge-dapper.webp
-|          |   |    |   └─ pudge-pig.webp
-|          |   |    |   └─ pudge-profile.png
-|          |   |    |   └─ shadowfiend-hero.jpg
-|          |   |    |   └─ ursa-hero.jpg
+|          |   |        └─fileWith.jpeg/.jpg/.webp/.png
 |          |   |    └─ js
 |          |   |        └─ scripts.js
 |          |   └─ index.html
@@ -171,16 +132,7 @@ WD-Hands-on-2
 |              |    └─ css
 |              |    |   └─ style.css
 |              |    └─ img
-|              |        └─ invo-background.jpg
-|              |        └─ invo-light.webp
-|              |        └─ invo-majesty.webp
-|              |        └─ invo-mc.webp
-|              |        └─ invo-menace.png
-|              |        └─ invo-profile.png
-|              |        └─ pa-background.jpg
-|              |        └─ pudge-background.jpg
-|              |        └─ shadowfiend-hero.jpg
-|              |        └─ ursa-hero.jpg
+|          |   |        └─fileWith.jpeg/.jpg/.webp/.png
 |              └─ index.html
 └─ index.html
 └─ readme.md
